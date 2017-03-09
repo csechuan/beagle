@@ -1,4 +1,4 @@
-package com.melon.beagle.core.entity
+package com.melon.beagle.entities
 
 import javax.persistence.Entity
 import javax.persistence.GeneratedValue
